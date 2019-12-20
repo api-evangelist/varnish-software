@@ -1,0 +1,67 @@
+{
+    "name": "Varnish Software",
+    "description": "Content delivery has never been simpler. Powered by a uniquely flexible caching technology, Varnish Software???s content delivery products are indispensable",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18702-varnish-software.jpg",
+    "tags": [
+        "api lifeycle",
+        "caching",
+        "have api",
+        "management",
+        "proxies"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/varnish-software\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Varnish Software",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18702-varnish-software.jpg",
+            "humanURL": "https:\/\/www.varnish-software.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/varnish-software-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.varnish-software.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/www.varnish-software.com\/blog\/feed.rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/varnish-software"
+        },
+        {
+            "type": "Email",
+            "url": "info@varnish-software.com"
+        },
+        {
+            "type": "Email",
+            "url": "training@varnish-software.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/varnish"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/varnishsoftware"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.varnish-software.com\/"
+        }
+    ]
+}
